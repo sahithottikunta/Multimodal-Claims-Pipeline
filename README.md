@@ -1,4 +1,4 @@
-# Synthetic Tri-Modal Insurance Claims Predictor 💥
+# Synthetic Tri-Modal Insurance Claims Predictor 
 
 ##  Project Overview
 This repository contains the source code for a **Generative AI Pipeline** and **Real-Time Inference System** designed to automate car insurance claim cost estimation.
